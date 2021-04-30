@@ -1,4 +1,4 @@
-# itp449_final
+# Marketing Budget Analysis
 ITP449 Final Project
 
 Marketing is making use of data analytics more frequently. I am taking a marketing class this semester, and I realized that marketing analytics is a growing area that still has a lot of potential. In this project, I will take a look at the Dummy Marketing and Sales Data from Kaggle (https://www.kaggle.com/harrimansaragih/dummy-advertising-and-sales-data).
